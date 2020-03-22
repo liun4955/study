@@ -1,4 +1,4 @@
 Gt is a version control system.
 Git is free software.
 123
-12&34
+12345
